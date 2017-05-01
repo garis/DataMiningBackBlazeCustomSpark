@@ -1,3 +1,15 @@
+# EXPERIMENTAL
+
+# EXPERIMENTAL
+
+# EXPERIMENTAL
+
+build:
+
+git clone https://github.com/apache/spark.git
+
+~/spark>$ build/mvn -DskipTests -T 4 clean package
+
 # DataMiningBackBlaze
 
 Data mining university project
